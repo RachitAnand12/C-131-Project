@@ -1,0 +1,76 @@
+.heading
+{
+font-size: 23px;
+width: 100%;
+margin: 0px;
+}
+
+#page1
+{
+font-size: 18px;
+width: 40%;
+background-color: rgb(62, 189, 168);
+border-radius: 20px;
+}
+#page2
+{
+font-size: 18px;
+width: 40%;
+background-color: rgb(62, 189, 168);
+border-radius: 20px;
+}
+
+#page3
+{
+font-size: 18px;
+width: 40%;
+background-color: rgb(62, 189, 168);
+border-radius: 20px;
+}
+
+#page4
+{
+font-size: 18px;
+width: 40%;
+background-color: rgb(62, 189, 168);
+border-radius: 20px;
+}
+
+#page5
+{
+font-size: 18px;
+width: 40%;
+background-color: rgb(62, 189, 168);
+border-radius: 20px;
+}
+
+
+
+body{
+    background-size: cover;
+    background-position: center;
+    background-color: rgb(12, 167, 133);
+}
+
+canvas{
+    box-shadow: 10px 10px 10px grey;
+    border-radius: 15px;
+}
+
+#bthp{
+position:relative;
+left: 20px;
+right: 30;
+bottom: 0px;
+top: 630;
+text-align: center;
+}
+
+#bthp1{
+    position:relative;
+    left: 20px;
+    right: 30;
+    bottom: 0px;
+    top: 135;
+    text-align: center;
+    }
